@@ -1,6 +1,6 @@
 RegisterSystem
 
-ระบบสมัครสมาชิก ภาษาที่ใช้ : NodeJS + MYSQL + Express 
+ระบบสมัครสมาชิก ภาษาที่ใช้ : NodeJS + MYSQL + Express + Bootstrap
 
 วิธีติดตั้ง : หมก
 วิธีใช้งาน : หมก
